@@ -2,7 +2,7 @@ package emailClient;
 
 import java.util.Scanner;
 
-public class EmailClient {
+public class EmailClient { 
     public static void main(String[] args) {
         EmailPlatform platform = new EmailPlatform();//starting the client
         Scanner scanner = new Scanner(System.in);
