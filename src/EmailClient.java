@@ -1,8 +1,8 @@
 package emailClient;
 
-import java.util.Scanner;
+import java.util.Scannerhj;
 
-public class EmailClient { 
+public class EmailClient {
     public static void main(String[] args) {
         EmailPlatform platform = new EmailPlatform();//starting the client
         Scanner scanner = new Scanner(System.in);
